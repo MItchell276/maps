@@ -1,0 +1,2786 @@
+{
+    "meta": {
+        "data_type": "array",
+        "item_type": "Doctor",
+        "total": 611,
+        "count": 10,
+        "skip": 0,
+        "limit": 10
+    },
+    "data": [
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.334439,
+                    "lon": -71.07562,
+                    "uid": "44a23236c7528bfd39eac6d231b6cf31",
+                    "name": "Tiffany Gearhart, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.334439,
+                        "lon": -71.07562,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "1 Boston Medical Ctr Pl",
+                        "zip": "02118"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6174146239",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Tiffany",
+                "last_name": "Gearhart",
+                "slug": "tiffany-gearhart-md",
+                "title": "MD",
+                "image_url": "https://asset2.betterdoctor.com/assets/general_doctor_female.png",
+                "gender": "female",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Tiffany Gearhart, MD, specialist in child & adolescent psychiatry, clinical neurophysiology, psychiatry, psychiatry & neurology behavioral neurology & neuropsychiatry, psychiatry & neurology diagnostic neuroimaging, psychiatry & neurology forensic psychiatry, psychiatry & neurology hospice and palliative medicine, and psychiatry & neurology psychosomatic medicine, currently practices medicine at Boston, Massachusetts.\n\n\n\nDr. Gearhart has passed an automated background check which looked at elements including medical license status and malpractice screening (no history found)."
+            },
+            "ratings": [],
+            "insurances": [],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "licenses": [],
+            "uid": "10ae44ea9172ada6b2290e7f4018fca0",
+            "npi": "1750647848"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-belmont",
+                    "lat": 42.391638,
+                    "lon": -71.161838,
+                    "uid": "8d3792da1d0308c176f78f488095df20",
+                    "name": "Nathaniel Stroock Kuhn",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth"
+                    ],
+                    "visit_address": {
+                        "city": "Belmont",
+                        "lat": 42.391638,
+                        "lon": -71.161838,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "5 Watson Rd",
+                        "zip": "02478"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6179770243",
+                            "type": "fax"
+                        },
+                        {
+                            "number": "6174899090",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                },
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.33979,
+                    "lon": -71.10488,
+                    "uid": "65ea06e2f166bd6d9561559b3af10ec3",
+                    "name": "Nathaniel Kuhn, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "multiplan-phcsppo",
+                        "bcbsbluecard-bcbsbluecardppo",
+                        "multiplan-multiplanppo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.33979,
+                        "lon": -71.10488,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "330 Brookline Ave",
+                        "zip": "02215"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6176674735",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                },
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.33979,
+                    "lon": -71.10488,
+                    "uid": "ea84f2b51195607ddab49894913d6422",
+                    "name": "Harvardmedicalfacultyphysicians At Bethisraeldeaconessmedicalcenter",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "multiplan-phcsppo",
+                        "bcbsbluecard-bcbsbluecardppo",
+                        "multiplan-multiplanppo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.33979,
+                        "lon": -71.10488,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "330 Brookline Ave",
+                        "zip": "02215"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177541000",
+                            "type": "business_landline"
+                        },
+                        {
+                            "number": "6177541040",
+                            "type": "business_fax"
+                        },
+                        {
+                            "number": "6176674654",
+                            "type": "landline"
+                        },
+                        {
+                            "number": "6176674934",
+                            "type": "fax"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Nathaniel",
+                "middle_name": "Stroock",
+                "last_name": "Kuhn",
+                "slug": "nathaniel-kuhn",
+                "title": "MD",
+                "image_url": "https://asset2.betterdoctor.com/assets/general_doctor_male.png",
+                "gender": "male",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Nathaniel Kuhn, MD specializes in addiction psychiatry, child & adolescent psychiatry, clinical neurophysiology, neurology, chiropractic neurology, neurology physical therapy, psychiatry, psychiatry & neurology behavioral neurology & neuropsychiatry, psychiatry & neurology diagnostic neuroimaging, psychiatry & neurology forensic psychiatry, psychiatry & neurology hospice and palliative medicine, psychiatry & neurology psychosomatic medicine, and psychiatry & neurology pain medicine, and currently practices medicine at Boston, Massachusetts, Belmont, Massachusetts, and Westwood, Massachusetts.\n\nDr. Kuhn is licensed to see patients in Massachusetts.\n\nIn addition to having active medical licenses, Dr. Kuhn has been found to hold one or more active medical licenses, and successfully passed a malpractice history screening."
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "name": "BCBS MA HMO Blue with Managed Care Behavioral Health",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bcbsbluecard-bcbsbluecardppo",
+                        "name": "BCBS Blue Card PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "name": "BCBS MA Blue Care Elect PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "name": "BCBS MA HMO Blue with Managed Care Behavioral Health",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "name": "BCBS MA Preferred Blue PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bcbsbluecard-bcbsbluecardppo",
+                        "name": "BCBS Blue Card PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "name": "BCBS MA Blue Care Elect PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "name": "BCBS MA HMO Blue with Managed Care Behavioral Health",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "name": "BCBS MA Preferred Blue PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "claims": [
+                {
+                    "hcpcs": "90801",
+                    "hcpcs_description": "Psychiatric diagnostic interview",
+                    "service_cnt": 13,
+                    "bene_uniq_cnt": 13,
+                    "avg_allowed_amt": 123.45,
+                    "avg_charge_amt": 370,
+                    "avg_payment_amt": 98.76
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "79826",
+                    "state": "MA"
+                }
+            ],
+            "uid": "1e13d92a1018d6b19868c48143349b1a",
+            "npi": "1821071770"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.362516,
+                    "lon": -71.069236,
+                    "uid": "ca0e53712dc035ae7d21ed27de028e6a",
+                    "name": "Ana Ivkovic, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "humana-humanachoicecarenetworkppo",
+                        "aetna-aetnachoiceposii",
+                        "aetna-aetnasignatureadministratorsppo",
+                        "multiplan-multiplanppo",
+                        "aetna-aetnahmo",
+                        "aetna-aetnamanagedchoiceposopenaccess",
+                        "multiplan-phcsppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.362516,
+                        "lon": -71.069236,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "55 Fruit St",
+                        "zip": "02114"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177268320",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                },
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.362516,
+                    "lon": -71.069236,
+                    "uid": "9118916b4c0be2dd2de2a73ef1b1a356",
+                    "name": "Ana Ivkovic, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.362516,
+                        "lon": -71.069236,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "55 Fruit St",
+                        "street2": "Wrn 605",
+                        "zip": "02114"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177246300",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                },
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.362516,
+                    "lon": -71.069236,
+                    "uid": "8a0bec273a45a6db83005dd76a842643",
+                    "name": "Ana Ivkovic, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "humana-humanachoicecarenetworkppo",
+                        "aetna-aetnachoiceposii",
+                        "aetna-aetnasignatureadministratorsppo",
+                        "multiplan-multiplanppo",
+                        "aetna-aetnahmo",
+                        "aetna-aetnamanagedchoiceposopenaccess",
+                        "multiplan-phcsppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.362516,
+                        "lon": -71.069236,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "55 Fruit St",
+                        "zip": "02114"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177268320",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                },
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.362516,
+                    "lon": -71.069236,
+                    "uid": "825461eb8d638aa1c49e52391e9417d8",
+                    "name": "Ana Ivkovic, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "humana-humanachoicecarenetworkppo",
+                        "aetna-aetnachoiceposii",
+                        "aetna-aetnasignatureadministratorsppo",
+                        "multiplan-multiplanppo",
+                        "aetna-aetnahmo",
+                        "aetna-aetnamanagedchoiceposopenaccess",
+                        "multiplan-phcsppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.362516,
+                        "lon": -71.069236,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "55 Fruit St",
+                        "zip": "02114"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177268320",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Ana",
+                "last_name": "Ivkovic",
+                "slug": "ana-ivkovic",
+                "title": "MD",
+                "image_url": "https://asset3.betterdoctor.com/assets/general_doctor_female.png",
+                "gender": "female",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": ""
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "humana-humanachoicecarenetworkppo",
+                        "name": "Humana ChoiceCare Network PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "humana",
+                        "name": "Humana"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnachoiceposii",
+                        "name": "Aetna Choice POS II",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnasignatureadministratorsppo",
+                        "name": "Aetna Signature Administrators PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnahmo",
+                        "name": "Aetna HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnamanagedchoiceposopenaccess",
+                        "name": "Aetna Managed Choice POS Open Access",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "humana-humanachoicecarenetworkppo",
+                        "name": "Humana ChoiceCare Network PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "humana",
+                        "name": "Humana"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnachoiceposii",
+                        "name": "Aetna Choice POS II",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnasignatureadministratorsppo",
+                        "name": "Aetna Signature Administrators PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnahmo",
+                        "name": "Aetna HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnamanagedchoiceposopenaccess",
+                        "name": "Aetna Managed Choice POS Open Access",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "humana-humanachoicecarenetworkppo",
+                        "name": "Humana ChoiceCare Network PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "humana",
+                        "name": "Humana"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnachoiceposii",
+                        "name": "Aetna Choice POS II",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnasignatureadministratorsppo",
+                        "name": "Aetna Signature Administrators PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnahmo",
+                        "name": "Aetna HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnamanagedchoiceposopenaccess",
+                        "name": "Aetna Managed Choice POS Open Access",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "claims": [
+                {
+                    "hcpcs": "99232",
+                    "hcpcs_description": "Subsequent hospital care",
+                    "service_cnt": 42,
+                    "bene_uniq_cnt": 32,
+                    "avg_allowed_amt": 72.81,
+                    "avg_charge_amt": 249.04761905,
+                    "avg_payment_amt": 58.25
+                },
+                {
+                    "hcpcs": "99223",
+                    "hcpcs_description": "Initial hospital care",
+                    "service_cnt": 30,
+                    "bene_uniq_cnt": 29,
+                    "avg_allowed_amt": 203.21,
+                    "avg_charge_amt": 692,
+                    "avg_payment_amt": 162.57
+                },
+                {
+                    "hcpcs": "99233",
+                    "hcpcs_description": "Subsequent hospital care",
+                    "service_cnt": 25,
+                    "bene_uniq_cnt": 22,
+                    "avg_allowed_amt": 104.32,
+                    "avg_charge_amt": 356.4,
+                    "avg_payment_amt": 83.46
+                },
+                {
+                    "hcpcs": "99283",
+                    "hcpcs_description": "Emergency department visit, moderate severity",
+                    "service_cnt": 19,
+                    "bene_uniq_cnt": 19,
+                    "avg_allowed_amt": 61.84,
+                    "avg_charge_amt": 233,
+                    "avg_payment_amt": 47.562105263
+                },
+                {
+                    "hcpcs": "99285",
+                    "hcpcs_description": "Emergency department visit, life threatening",
+                    "service_cnt": 18,
+                    "bene_uniq_cnt": 18,
+                    "avg_allowed_amt": 172.07,
+                    "avg_charge_amt": 600.61111111,
+                    "avg_payment_amt": 137.66
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "245980",
+                    "state": "MA"
+                }
+            ],
+            "uid": "1e1521ee756145b0bee53cec62a94a50",
+            "npi": "1275708083"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.362323,
+                    "lon": -71.069086,
+                    "uid": "cead2e2b011e78cd7ce8b34ba40a4aa1",
+                    "name": "Sara Kulleseid, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "multiplan-multiplanppo",
+                        "multiplan-phcsppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.362323,
+                        "lon": -71.069086,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "32 Fruit St",
+                        "street2": "Ste 105",
+                        "zip": "02114"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "7407262707",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Sara",
+                "middle_name": "Ingri",
+                "last_name": "Kulleseid",
+                "slug": "sara-kulleseid",
+                "title": "MD",
+                "image_url": "https://asset1.betterdoctor.com/assets/general_doctor_female.png",
+                "gender": "female",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Sara Kulleseid, MD specializes in psychiatry, and currently sees patients in Bryn mawr, Pennsylvania.\n\nDr. Kulleseid is licensed to see patients in Pennsylvania.\n\nIn addition to having active medical licenses, Dr. Kulleseid has passed an automated background check which looked at elements including medical license status and malpractice screening (no history found)."
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "MD-425060",
+                    "state": "PA"
+                }
+            ],
+            "uid": "4bd6bbce2f390bb60d8f159a92f85cf5",
+            "npi": "1528361664"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.36252,
+                    "lon": -71.069801,
+                    "uid": "5302148962a5ba431543151f8f5b5eac",
+                    "name": "The General Hospital Corporation",
+                    "website": "http://www.massgeneral.org/",
+                    "email": "cmoreno2@mgh.harvard.edu",
+                    "description": "Dr. Brian Nahed specializes in brain tumors (gliomas, glioblastomas, low grade gliomas, meningiomas, metastatic cancer) and spinal disorders.",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "bcbsbluecard-bcbsbluecardppo",
+                        "cigna-cignalocalplus",
+                        "tuftshealthplan-tuftsppo",
+                        "cigna-cignappo",
+                        "cigna-cignahmo",
+                        "cigna-cignaopenaccessplus",
+                        "humana-humanachoicecarenetworkppo",
+                        "multiplan-multiplanppo",
+                        "harvardpilgrim-harvardpilgrimppo",
+                        "multiplan-phcsppo",
+                        "emblemhealth-emblemhealthppoghi",
+                        "aetna-aetnasignatureadministratorsppo",
+                        "aetna-aetnachoiceposii",
+                        "aetna-aetnamanagedchoiceposopenaccess",
+                        "aetna-aetnahmo",
+                        "coventryhealthcare-coventryhealthcareofvahmo",
+                        "coventryhealthcare-coventrysouthernhealthppo",
+                        "aetna-aetnaadvantage6350hix",
+                        "aetna-aetnabasichix",
+                        "bcbsflorida-floridablueblueoptionshix",
+                        "humana-humanahmopremierhix",
+                        "blueshieldofcalifornia-blueshieldcabasicppobronzelevelhix",
+                        "bridgespan-bridgespanhix",
+                        "healthnet-healthnetindividualfamilyppohix",
+                        "ibcamerihealth-amerihealthlocalvaluenetworkepoposppohix",
+                        "ibcamerihealth-amerihealthlocalvaluenetworkhmohmoposhix",
+                        "ibcamerihealth-amerihealthregionalprefntwkepoposppohix",
+                        "ibcamerihealth-amerihealthregionalprefntwkhmohmoposhix",
+                        "magnacare-magnacareextrahealthrepublichix",
+                        "premerabcbs-premeraheritagesignaturehix",
+                        "medicaid-medicaid",
+                        "medicare-medicare",
+                        "aetna-aetnamdbronzesilverandgoldhmo",
+                        "anthembluecrossblueshield-golddirectaccesspluswhsa",
+                        "anthembluecrossblueshield-bronzedirectaccessplusgjqa",
+                        "healthnet-hmoexcelcaresilvernetwork",
+                        "healthnet-hmoexcelcaresilvernetworkmedicarecob",
+                        "gwhcigna-greatwestppo",
+                        "unitedhealthcare-uhcchoicepluspos",
+                        "unitedhealthcare-uhcnavigatehmo",
+                        "unitedhealthcare-uhcnavigatepos",
+                        "unitedhealthcare-uhcoptionsppo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.36252,
+                        "lon": -71.069801,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "55 Fruit St",
+                        "zip": "02114"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177263852",
+                            "type": "fax"
+                        },
+                        {
+                            "number": "6176434017",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Rebecca",
+                "middle_name": "Marie",
+                "last_name": "Harley",
+                "slug": "rebecca-harley",
+                "title": "PHD",
+                "image_url": "https://asset2.betterdoctor.com/assets/general_doctor_female.png",
+                "gender": "female",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Rebecca Harley, PHD, specialist in clinical psychology, psychiatry, and psychology, currently treats patients in Boston, Massachusetts.\n\nDr. Harley is licensed to practice medicine at Massachusetts.\n\nDr. Harley has been found during an automated background check to be clear of any malpractice history and holds one or more active medical licenses."
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "bcbsbluecard-bcbsbluecardppo",
+                        "name": "BCBS Blue Card PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignalocalplus",
+                        "name": "CIGNA LocalPlus",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "tuftshealthplan-tuftsppo",
+                        "name": "Tufts PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "tuftshealthplan",
+                        "name": "Tufts Health Plan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignappo",
+                        "name": "CIGNA PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignahmo",
+                        "name": "CIGNA HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignaopenaccessplus",
+                        "name": "CIGNA Open Access Plus",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "humana-humanachoicecarenetworkppo",
+                        "name": "Humana ChoiceCare Network PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "humana",
+                        "name": "Humana"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "harvardpilgrim-harvardpilgrimppo",
+                        "name": "Harvard Pilgrim PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "harvardpilgrim",
+                        "name": "Harvard Pilgrim"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "emblemhealth-emblemhealthppoghi",
+                        "name": "EmblemHealth PPO GHI",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "emblemhealth",
+                        "name": "EmblemHealth"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnasignatureadministratorsppo",
+                        "name": "Aetna Signature Administrators PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnachoiceposii",
+                        "name": "Aetna Choice POS II",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnamanagedchoiceposopenaccess",
+                        "name": "Aetna Managed Choice POS Open Access",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnahmo",
+                        "name": "Aetna HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "coventryhealthcare-coventryhealthcareofvahmo",
+                        "name": "Coventry Health Care of VA HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "coventryhealthcare-coventrysouthernhealthppo",
+                        "name": "Coventry Southern Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnaadvantage6350hix",
+                        "name": "Advantage 6350 - HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnabasichix",
+                        "name": "Basic - HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bcbsflorida-floridablueblueoptionshix",
+                        "name": "Florida Blue - BlueOptions - HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bluecrossblueshieldoffloridabcbsfl",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "humana-humanahmopremierhix",
+                        "name": "HMO - Premier HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "humana",
+                        "name": "Humana"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "blueshieldofcalifornia-blueshieldcabasicppobronzelevelhix",
+                        "name": "Basic PPO - Bronze level HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "blueshieldofcalifornia",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bridgespan-bridgespanhix",
+                        "name": "Bridgespan - HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bridgespan",
+                        "name": "Cambia Health Solutions"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "healthnet-healthnetindividualfamilyppohix",
+                        "name": "Health Net Individual  Family - PPO  HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "healthnet",
+                        "name": "HealthNet"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "ibcamerihealth-amerihealthlocalvaluenetworkepoposppohix",
+                        "name": "AmeriHealth Local Value Network - EPO POS PPO HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "ibcamerihealth",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "ibcamerihealth-amerihealthlocalvaluenetworkhmohmoposhix",
+                        "name": "AmeriHealth Local Value Network - HMO HMO POS HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "ibcamerihealth",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "ibcamerihealth-amerihealthregionalprefntwkepoposppohix",
+                        "name": "AmeriHealth Regional Pref Network - EPO POS PPO HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "ibcamerihealth",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "ibcamerihealth-amerihealthregionalprefntwkhmohmoposhix",
+                        "name": "AmeriHealth Regional Pref Network - HMO HMO POS HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "ibcamerihealth",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "magnacare-magnacareextrahealthrepublichix",
+                        "name": "Extra Health Republic - HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "magnacare",
+                        "name": "Magnacare"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "premerabcbs-premeraheritagesignaturehix",
+                        "name": "Premera Heritage Signature - HIX",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "premerabluecrossblueshield",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "medicaid-medicaid",
+                        "name": "Medicaid",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "medicaid",
+                        "name": "Medicaid"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "medicare-medicare",
+                        "name": "Medicare",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "medicare",
+                        "name": "Medicare"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnamdbronzesilverandgoldhmo",
+                        "name": "MD Bronze Silver  Gold - HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "anthembluecrossblueshield-golddirectaccesspluswhsa",
+                        "name": "Gold DirectAccess Plus with HSA",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "anthembluecrossblueshield",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "anthembluecrossblueshield-bronzedirectaccessplusgjqa",
+                        "name": "Bronze DirectAccess Plus - gjqa",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "anthembluecrossblueshield",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "healthnet-hmoexcelcaresilvernetwork",
+                        "name": "HMO - ExcelCare  Silver Network",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "healthnet",
+                        "name": "HealthNet"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "healthnet-hmoexcelcaresilvernetworkmedicarecob",
+                        "name": "HMO - ExcelCare  Silver Network Medicare COB",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "healthnet",
+                        "name": "HealthNet"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "gwhcigna-greatwestppo",
+                        "name": "Great West PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "unitedhealthcare-uhcchoicepluspos",
+                        "name": "UHC Choice Plus POS",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "unitedhealthcare",
+                        "name": "United Healthcare"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "unitedhealthcare-uhcnavigatehmo",
+                        "name": "UHC Navigate HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "unitedhealthcare",
+                        "name": "United Healthcare"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "unitedhealthcare-uhcnavigatepos",
+                        "name": "UHC Navigate POS",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "unitedhealthcare",
+                        "name": "United Healthcare"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "unitedhealthcare-uhcoptionsppo",
+                        "name": "UHC Options PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "unitedhealthcare",
+                        "name": "United Healthcare"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "name": "BCBS MA Blue Care Elect PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "name": "BCBS MA HMO Blue with Managed Care Behavioral Health",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "name": "BCBS MA Preferred Blue PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "clinical-psychologist",
+                    "name": "Clinical Psychology",
+                    "description": "Specializes in psychological counceling and therapy.",
+                    "category": "medical",
+                    "actor": "Clinical Psychologist",
+                    "actors": "Clinical Psychologists"
+                },
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                },
+                {
+                    "uid": "psychologist",
+                    "name": "Psychology",
+                    "description": "Specializes in psychological counceling and therapy.",
+                    "category": "medical",
+                    "actor": "Psychologist",
+                    "actors": "Psychologists"
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "7978",
+                    "state": "MA",
+                    "end_date": "2014-06-30"
+                },
+                {
+                    "state": "MA",
+                    "end_date": "2014-06-30"
+                }
+            ],
+            "uid": "2d77bbd680843d9924b8367093ca1af2",
+            "npi": "1427023167"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.335902,
+                    "lon": -71.107365,
+                    "uid": "28d931eba5fb0ffbdbaf04d0f9cabd2c",
+                    "name": "Tuesday Burns, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "multiplan-multiplanppo",
+                        "multiplan-phcsppo",
+                        "gwhcigna-greatwestppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.335902,
+                        "lon": -71.107365,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "75 Francis St",
+                        "zip": "02115"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177325500",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                },
+                {
+                    "location_slug": "va-norfolk",
+                    "lat": 36.86037,
+                    "lon": -76.30359,
+                    "uid": "d82003875cbf94489f4ab295c29fb132",
+                    "name": "Tuesday Burns, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "multiplan-phcsppo",
+                        "multiplan-multiplanppo",
+                        "cigna-cignappo",
+                        "humana-humanachoicecarenetworkppo",
+                        "coventryhealthcare-coventrysouthernhealthppo",
+                        "cigna-cignahmo",
+                        "cigna-cignaopenaccessplus",
+                        "gwhcigna-greatwestppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Norfolk",
+                        "lat": 36.86037,
+                        "lon": -76.30359,
+                        "state": "VA",
+                        "state_long": "Virginia",
+                        "street": "825 Fairfax Ave",
+                        "zip": "23507"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "7574465955",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Tuesday",
+                "last_name": "Burns",
+                "slug": "tuesday-burns-md",
+                "title": "MD",
+                "image_url": "https://asset3.betterdoctor.com/assets/general_doctor_female.png",
+                "gender": "female",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Tuesday Burns, MD, specialist in psychiatry, currently sees patients in Redmond, Washington and Norfolk, Virginia.\n\nDr. Burns is licensed to see patients in Washington.\n\nIn addition to having active medical licenses, Dr. Burns has successfully passed a background check including a medical license verification (active) and screening for malpractice history (none found)."
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "gwhcigna-greatwestppo",
+                        "name": "Great West PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignappo",
+                        "name": "CIGNA PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "humana-humanachoicecarenetworkppo",
+                        "name": "Humana ChoiceCare Network PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "humana",
+                        "name": "Humana"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "coventryhealthcare-coventrysouthernhealthppo",
+                        "name": "Coventry Southern Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignahmo",
+                        "name": "CIGNA HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignaopenaccessplus",
+                        "name": "CIGNA Open Access Plus",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "gwhcigna-greatwestppo",
+                        "name": "Great West PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "claims": [
+                {
+                    "hcpcs": "99233",
+                    "hcpcs_description": "Subsequent hospital care",
+                    "service_cnt": 69,
+                    "bene_uniq_cnt": 22,
+                    "avg_allowed_amt": 109.92,
+                    "avg_charge_amt": 285,
+                    "avg_payment_amt": 87.94
+                },
+                {
+                    "hcpcs": "99223",
+                    "hcpcs_description": "Initial hospital care",
+                    "service_cnt": 23,
+                    "bene_uniq_cnt": 23,
+                    "avg_allowed_amt": 214.96,
+                    "avg_charge_amt": 445,
+                    "avg_payment_amt": 171.97
+                },
+                {
+                    "hcpcs": "99285",
+                    "hcpcs_description": "Emergency department visit, life threatening",
+                    "service_cnt": 12,
+                    "bene_uniq_cnt": 12,
+                    "avg_allowed_amt": 183.56,
+                    "avg_charge_amt": 790,
+                    "avg_payment_amt": 146.85
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "60316194",
+                    "state": "WA"
+                }
+            ],
+            "uid": "45823321ae1c06dd9b51e44ccf1d0d95",
+            "npi": "1962621284"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.33979,
+                    "lon": -71.10488,
+                    "uid": "0e9446b6178bff734dae71dbb09e7130",
+                    "name": "Louis Beckman, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.33979,
+                        "lon": -71.10488,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "330 Brookline Ave",
+                        "zip": "02215"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6176674630",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Louis",
+                "middle_name": "Asher Ritvo",
+                "last_name": "Beckman",
+                "slug": "louis-beckman-md",
+                "title": "MD",
+                "image_url": "https://asset2.betterdoctor.com/assets/general_doctor_male.png",
+                "gender": "male",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Louis Beckman, MD--specialist in child & adolescent psychiatry, clinical neurophysiology, psychiatry, psychiatry & neurology behavioral neurology & neuropsychiatry, psychiatry & neurology diagnostic neuroimaging, psychiatry & neurology forensic psychiatry, psychiatry & neurology hospice and palliative medicine, and psychiatry & neurology psychosomatic medicine--currently treats patients in Boston, Massachusetts.\n\n\n\nDr. Beckman has successfully passed a background check including a medical license verification (active) and screening for malpractice history (none found)."
+            },
+            "ratings": [],
+            "insurances": [],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "licenses": [],
+            "uid": "03c86b0a3d6b33382b1f16ec55269f08",
+            "npi": "1972802106"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.362516,
+                    "lon": -71.069236,
+                    "uid": "455d169b4393c46e786292d4a5412666",
+                    "name": "James Jenkins Ii, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "multiplan-multiplanppo",
+                        "multiplan-phcsppo",
+                        "harvardpilgrim-harvardpilgrimppo",
+                        "bcbsbluecard-bcbsbluecardppo",
+                        "humana-humanachoicecarenetworkppo",
+                        "aetna-aetnahmo",
+                        "aetna-aetnasignatureadministratorsppo",
+                        "aetna-aetnachoiceposii",
+                        "aetna-aetnamanagedchoiceposopenaccess",
+                        "emblemhealth-emblemhealthppoghi",
+                        "medicare-medicare",
+                        "medicaid-medicaid",
+                        "aetna-aetnamdbronzesilverandgoldhmo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "firsthealthcoventryhealthcare-firsthealthppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.362516,
+                        "lon": -71.069236,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "55 Fruit St",
+                        "zip": "02114"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6177268320",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "James",
+                "middle_name": "A",
+                "last_name": "Jenkins Ii",
+                "slug": "james-jenkins-ii-md",
+                "title": "MD",
+                "image_url": "https://asset2.betterdoctor.com/assets/general_doctor_male.png",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": ""
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-multiplanppo",
+                        "name": "Multiplan PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "multiplan-phcsppo",
+                        "name": "PHCS PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "multiplan",
+                        "name": "Multiplan"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "harvardpilgrim-harvardpilgrimppo",
+                        "name": "Harvard Pilgrim PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "harvardpilgrim",
+                        "name": "Harvard Pilgrim"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bcbsbluecard-bcbsbluecardppo",
+                        "name": "BCBS Blue Card PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "humana-humanachoicecarenetworkppo",
+                        "name": "Humana ChoiceCare Network PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "humana",
+                        "name": "Humana"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnahmo",
+                        "name": "Aetna HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnasignatureadministratorsppo",
+                        "name": "Aetna Signature Administrators PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnachoiceposii",
+                        "name": "Aetna Choice POS II",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnamanagedchoiceposopenaccess",
+                        "name": "Aetna Managed Choice POS Open Access",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "emblemhealth-emblemhealthppoghi",
+                        "name": "EmblemHealth PPO GHI",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "emblemhealth",
+                        "name": "EmblemHealth"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "medicare-medicare",
+                        "name": "Medicare",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "medicare",
+                        "name": "Medicare"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "medicaid-medicaid",
+                        "name": "Medicaid",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "medicaid",
+                        "name": "Medicaid"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "aetna-aetnamdbronzesilverandgoldhmo",
+                        "name": "MD Bronze Silver  Gold - HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmabluecareelectppo",
+                        "name": "BCBS MA Blue Care Elect PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmahmobluewithmanagedcarebehavioralhealth",
+                        "name": "BCBS MA HMO Blue with Managed Care Behavioral Health",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "bluecrossblueshieldofmassachusetts-bcbsmapreferredblueppo",
+                        "name": "BCBS MA Preferred Blue PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "bcbs",
+                        "name": "BCBS"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+                        "name": "First Health PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "aetna",
+                        "name": "Aetna"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "L-256375",
+                    "state": "MA"
+                }
+            ],
+            "uid": "2a97fbaab598888207635f8ae477d2fe",
+            "npi": "1235577313"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.34402,
+                    "lon": -71.09927,
+                    "uid": "1903af8dbcf79c0dd3e1b30d68ef50f6",
+                    "name": "Richard Cook, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "cigna-cignaopenaccessplus",
+                        "cigna-cignahmo",
+                        "cigna-cignalocalplus",
+                        "cigna-cignappo",
+                        "gwhcigna-greatwestppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.34402,
+                        "lon": -71.09927,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "1340 Boylston St",
+                        "zip": "02215"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6172670900",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Richard",
+                "middle_name": "Walter",
+                "last_name": "Cook",
+                "slug": "richard-cook-6",
+                "title": "MD",
+                "image_url": "https://asset3.betterdoctor.com/assets/general_doctor_male.png",
+                "gender": "male",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Richard Cook, MD practices medicine at Boston, Massachusetts and specializes in psychiatry.\n\nDr. Cook is licensed to treat patients in Massachusetts.\n\nDr. Cook has passed an automated background check which looked at elements including medical license status and malpractice screening (no history found)."
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignaopenaccessplus",
+                        "name": "CIGNA Open Access Plus",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignahmo",
+                        "name": "CIGNA HMO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignalocalplus",
+                        "name": "CIGNA LocalPlus",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "cigna-cignappo",
+                        "name": "CIGNA PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                },
+                {
+                    "insurance_plan": {
+                        "uid": "gwhcigna-greatwestppo",
+                        "name": "Great West PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "231838",
+                    "state": "MA"
+                }
+            ],
+            "uid": "3e176328e62471b7d095b833f80cd60c",
+            "npi": "1760496863"
+        },
+        {
+            "practices": [
+                {
+                    "location_slug": "ma-boston",
+                    "lat": 42.33839,
+                    "lon": -71.10934,
+                    "uid": "d7ada10c44df175b88814537f1e8afeb",
+                    "name": "Jennifer Schreiber, MD",
+                    "accepts_new_patients": true,
+                    "insurance_uids": [
+                        "gwhcigna-greatwestppo"
+                    ],
+                    "visit_address": {
+                        "city": "Boston",
+                        "lat": 42.33839,
+                        "lon": -71.10934,
+                        "state": "MA",
+                        "state_long": "Massachusetts",
+                        "street": "1 Deaconess Rd",
+                        "zip": "02215"
+                    },
+                    "office_hours": [],
+                    "phones": [
+                        {
+                            "number": "6176327786",
+                            "type": "landline"
+                        }
+                    ],
+                    "languages": [
+                        {
+                            "name": "English",
+                            "code": "en"
+                        }
+                    ]
+                }
+            ],
+            "educations": [],
+            "profile": {
+                "first_name": "Jennifer",
+                "middle_name": "Felice",
+                "last_name": "Schreiber",
+                "slug": "jennifer-schreiber",
+                "title": "MD",
+                "image_url": "https://asset1.betterdoctor.com/assets/general_doctor_female.png",
+                "gender": "female",
+                "languages": [
+                    {
+                        "name": "English",
+                        "code": "en"
+                    }
+                ],
+                "bio": "Dr. Jennifer Schreiber, MD specializes in psychiatry, and currently treats patients in Washington, District Of Columbia and Boston, Massachusetts.\n\nDr. Schreiber is licensed to treat patients in Massachusetts.\n\nDr. Schreiber has successfully passed a background check including a medical license verification (active) and screening for malpractice history (none found)."
+            },
+            "ratings": [],
+            "insurances": [
+                {
+                    "insurance_plan": {
+                        "uid": "gwhcigna-greatwestppo",
+                        "name": "Great West PPO",
+                        "category": [
+                            "medical"
+                        ]
+                    },
+                    "insurance_provider": {
+                        "uid": "cigna",
+                        "name": "Cigna"
+                    }
+                }
+            ],
+            "specialties": [
+                {
+                    "uid": "psychiatrist",
+                    "name": "Psychiatry",
+                    "description": "Specializes in the diagnosis and treatment of mental disorders.",
+                    "category": "medical",
+                    "actor": "Psychiatrist",
+                    "actors": "Psychiatrists"
+                }
+            ],
+            "claims": [
+                {
+                    "hcpcs": "99231",
+                    "hcpcs_description": "Subsequent hospital care",
+                    "service_cnt": 70,
+                    "bene_uniq_cnt": 29,
+                    "avg_allowed_amt": 41.7,
+                    "avg_charge_amt": 124,
+                    "avg_payment_amt": 33.36
+                },
+                {
+                    "hcpcs": "90801",
+                    "hcpcs_description": "Psychiatric diagnostic interview",
+                    "service_cnt": 32,
+                    "bene_uniq_cnt": 30,
+                    "avg_allowed_amt": 129.08,
+                    "avg_charge_amt": 325,
+                    "avg_payment_amt": 103.26
+                }
+            ],
+            "licenses": [
+                {
+                    "number": "150868",
+                    "state": "MA"
+                }
+            ],
+            "uid": "2f7db3d5105e444b2f30544cf252ce1b",
+            "npi": "1033160445"
+        }
+    ]
+}
